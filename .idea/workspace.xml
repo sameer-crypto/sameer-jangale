@@ -59,7 +59,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="main.py" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +68,7 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -83,7 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main.py" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +99,7 @@
       <updated>1565294329874</updated>
       <workItem from="1565294378149" duration="1845000" />
       <workItem from="1565377502907" duration="17000" />
-      <workItem from="1566756584967" duration="1226000" />
+      <workItem from="1566756584967" duration="1962000" />
     </task>
     <servers />
   </component>
